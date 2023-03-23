@@ -1,6 +1,8 @@
 # Example-of-data-automation
 
-"Example of using Streamlit for data automation by uploading a csv file. The data goes through the following transformations:
+"Example of using Streamlit for data automation by uploading a csv file. 
+
+The data goes through the following transformations:
 
 - reading
 - null imputation using KNN
