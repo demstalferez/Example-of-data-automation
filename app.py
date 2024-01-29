@@ -32,7 +32,6 @@ def create_plots(data, columns, plot_type):
 
     return fig
 
-st.set_option("deprecation.showfileUploaderEncoding", False)
 
 st.title("Análisis y visualización de datos CSV")
 
